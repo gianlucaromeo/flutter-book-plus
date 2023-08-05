@@ -4,4 +4,4 @@ description: A collection of the most common/useful Flutter's intermediate topic
 
 # Flutter Intermediate
 
-1. [WidgetsFlutterBinding](./#widgetsflutterbinding.ensureinitialized)
+1. [widgetsflutterbinding.md](widgetsflutterbinding.md "mention")
